@@ -33,7 +33,7 @@ A dichotomic lens on the Human-Computer relationship can look towards-
 5. Deny presence of conflict.
    - > As this mode proposes a counter-argument to human-computer dichotomy, I felt this should be adressed seperately in future.
 
-## How does the bot write poetry?
+##### How does the bot write poetry?
 This work employs two ways of achieving bot poetry (using library RiTa.js [[3]](https://rednoise.org/rita/)) - 
 1. By matching a pre-set grammar-sequence:
    - Grammar Maker [[4]](), a mini-program was developed to identify a poet's most-frequently used grammar-sequence.
@@ -43,4 +43,5 @@ This work employs two ways of achieving bot poetry (using library RiTa.js [[3]](
 
 ##### Credits
 This project was undertaken by [Jazer Chand](), mentored by [Saumya Kharbanda](https://www.linkedin.com/in/saumyakharbanda) and [Dinesh Abiram](https://dineshabiram.wixsite.com/photography).
+
 A huge shout-out to [Daniel Shiffman](https://shiffman.net/) and his wonderful creative-coding channel [Coding Train](https://www.youtube.com/user/shiffman/featured).

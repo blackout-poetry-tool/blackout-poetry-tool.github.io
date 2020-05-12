@@ -8,7 +8,7 @@ A dichotomic lens on the Human-Computer relationship can look towards-
 
 #
 
-**Whenever there's a conflict between two entites, Peter Elbow [[1]](https://www.semanticscholar.org/paper/The-Uses-of-Binary-Thinking-Elbow/294d77e512c3eff76b5ddd105277ae489b07cdac) mentions 5 ways of resolvng it -**
+**Whenever there's a conflict between two entites, Peter Elbow [[1]](https://www.semanticscholar.org/paper/The-Uses-of-Binary-Thinking-Elbow/294d77e512c3eff76b5ddd105277ae489b07cdac) mentions 5 ways of resolving it -**
 1. Choosing a better side.
 2. Work out a synthesis - a middle ground.
 3. Affirm both sides as true.

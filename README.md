@@ -1,6 +1,4 @@
 # Blackout Poetry Tool
-A poem generator that explores fives modes for creating blackout poems.
-
 ## In the context of Human-Computer Dichotomy
 **Dichotomy**
 > A division or contrast between two things that are or are represented as being opposed.

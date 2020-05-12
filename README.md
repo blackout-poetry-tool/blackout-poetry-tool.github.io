@@ -31,7 +31,7 @@ A dichotomic lens on the Human-Computer relationship can look towards-
    - Visual
      - A new bot draws a wave- following visual rules over grammatical rules.
 5. Deny the presence of conflict.
-   - 'As this mode proposes a counter-argument to human-computer dichotomy, I felt this should be addressed separately in the future.'
+   - `As this mode proposes a counter-argument to human-computer dichotomy, I felt this should be addressed separately in the future.`
    
 #
 

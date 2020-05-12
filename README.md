@@ -1,3 +1,3 @@
-Blackout Poetry Generator
+Blackout Poetry Tool
 
-An app that explores 5 modes of creating blackout poetry in the context of human-computer dichotomy.
+An environment that explores 5 modes of creating blackout poetry in the context of human-computer dichotomy.

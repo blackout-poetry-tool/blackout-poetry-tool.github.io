@@ -44,6 +44,7 @@ This work employs two ways of achieving bot poetry (using library RiTa.js [[3]](
 2. By detecting a selected word's grammar rule:
    - A makov-based n-gram model refers to Robert Frost's poetry corpus [[5]](http://www.gutenberg.org/ebooks/59824), and selects the next most-probable word.
   
+#
 
 ##### Credits
 This project was undertaken by [Jazer Chand](), mentored by [Saumya Kharbanda](https://www.linkedin.com/in/saumyakharbanda) and [Dinesh Abiram](https://dineshabiram.wixsite.com/photography).

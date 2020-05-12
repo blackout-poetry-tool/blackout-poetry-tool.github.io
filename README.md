@@ -40,7 +40,7 @@ This work employs two ways of achieving bot poetry (using library RiTa.js [[3]](
 1. By matching a pre-set grammar-sequence:
    - Grammar Maker [[4]](https://blackout-poetry-tool.github.io/grammar-maker/), a mini-program was developed to identify a poet's most-frequently used grammar-sequence.
 2. By detecting a selected word's grammar rule:
-   - A makov-based n-gram model refers to Robert Frost's poetry corpus [[5]](http://www.gutenberg.org/ebooks/59824), and selects the next most-probable word.
+   - A makov-based n-gram model refers to Robert Frost's poetry corpus [[5]](http://www.gutenberg.org/files/59824/59824-h/59824-h.htm), and selects the next most-probable word.
   
 #
 

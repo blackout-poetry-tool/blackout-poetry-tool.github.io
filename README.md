@@ -1,3 +1,6 @@
-#Blackout Poetry Tool
+# Blackout Poetry Tool
+A space that explores 5 modes of creating blackout poetry.
 
-An environment that explores 5 modes of creating blackout poetry in the context of human-computer dichotomy.
+## In the context of Human-Computer Dichotomy
+**Dichotomy**
+> A division or contrast between two things that are or are represented as being opposed.

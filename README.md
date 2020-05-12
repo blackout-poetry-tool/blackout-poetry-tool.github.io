@@ -40,13 +40,13 @@ A dichotomic lens on the Human-Computer relationship can look towards-
 ##### How does the bot write poetry?
 This work employs two ways of achieving bot poetry (using library RiTa.js [[3]](https://rednoise.org/rita/)) - 
 1. By matching a pre-set grammar-sequence:
-   - Grammar Maker [[4]](), a mini-program was developed to identify a poet's most-frequently used grammar-sequence.
+   - Grammar Maker [[4]](https://blackout-poetry-tool.github.io/grammar-maker/), a mini-program was developed to identify a poet's most-frequently used grammar-sequence.
 2. By detecting a selected word's grammar rule:
    - A makov-based n-gram model refers to Robert Frost's poetry corpus [[5]](http://www.gutenberg.org/ebooks/59824), and selects the next most-probable word.
   
 #
 
 ##### Credits
-This project was undertaken by [Jazer Chand](), mentored by [Saumya Kharbanda](https://www.linkedin.com/in/saumyakharbanda) and [Dinesh Abiram](https://dineshabiram.wixsite.com/photography).
+This project was undertaken by [Jazer Chand](https://www.instagram.com/jazer.chand/), mentored by [Saumya Kharbanda](https://www.linkedin.com/in/saumyakharbanda) and [Dinesh Abiram](https://dineshabiram.wixsite.com/photography).
 
 A huge shout-out to [Daniel Shiffman](https://shiffman.net/) and his wonderful creative-coding channel [Coding Train](https://www.youtube.com/user/shiffman/featured).

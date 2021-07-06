@@ -48,3 +48,5 @@ This work employs two ways of achieving bot poetry (using library RiTa.js [[3]](
 This project was undertaken by [Jazer Chand](https://www.instagram.com/jazer.chand/), mentored by [Saumya Kharbanda](https://www.linkedin.com/in/saumyakharbanda) and [Dinesh Abiram](https://dineshabiram.wixsite.com/photography).
 
 A huge shout-out to [Daniel Shiffman](https://shiffman.net/) and his wonderful creative-coding channel [Coding Train](https://www.youtube.com/user/shiffman/featured).
+
+© 2021. This work is licensed under a [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).
